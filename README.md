@@ -1,0 +1,2 @@
+# GAN_Principle
+GAN网络是近两年深度学习领域的新秀，本文旨在浅显理解传统GAN，分享学习心得。现有GAN网络大多数代码实现使用Python、torch等语言，这里，后面用matlab搭建一个简单的GAN网络，便于理解GAN原理。
